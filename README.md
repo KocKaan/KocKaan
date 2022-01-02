@@ -1,5 +1,5 @@
-### Hi there 👋
-## Im Kaan Karakas studying Computer Science and Mathematics at New York University, Courant Institude of Mathematical Sciences. Feel free to reach out to me for anything. 
+## Hi there 👋
+### Im Kaan Karakas studying Computer Science and Mathematics at New York University, Courant Institude of Mathematical Sciences. Feel free to reach out to me for anything. 
 
 
 **KocKaan/KocKaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
