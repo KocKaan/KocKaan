@@ -12,5 +12,6 @@
 
 - ⚡ Fun fact: Im half Japanese half Turkish and I can speak English, Turkish and Japanese. 
 
-### Visitor Counter
+### Visitor Counter 
+Since 03/01/2022
 ![Visitor Count](https://profile-counter.glitch.me/{KocKaan}/count.svg)
