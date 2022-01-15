@@ -8,7 +8,7 @@
 
 - 💬 Ask me about World Politics, Turkey and geopolitcs.
 
-- 📫 How to reach me: email: kk4291@nyu.edu Linkedin:https://www.linkedin.com/in/kkaan-karakas/
+- 📫 How to reach me: email: kk4291@nyu.edu Linkedin:https://www.linkedin.com/in/kkaan-karakas/ Twitter:https://twitter.com/KocKaanKarakas
 
 - ⚡ Fun fact: Im half Japanese half Turkish and I can speak English, Turkish and Japanese. 
 
