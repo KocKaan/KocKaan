@@ -12,4 +12,6 @@
 
 - ⚡ Fun fact: Im half Japanese half Turkish and I can speak English, Turkish and Japanese. 
 
+[![KocKaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KocKaan)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KocKaan&layout=compact&hide=yacc)](https://github.com/anuraghazra/github-readme-stats)
