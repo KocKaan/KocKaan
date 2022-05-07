@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Im Kaan Karakas studying Computer Science and Mathematics at New York University, Courant Institude of Mathematical Sciences. Feel free to reach out to me for anything. 
+### Im Kaan Karakas, studying Computer Science and Mathematics at New York University, Courant Institude of Mathematical Sciences. Feel free to reach out to me for anything. 
 
 
 - 🔭 I’m interested in fintech, trading and Software Development
