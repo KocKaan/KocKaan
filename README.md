@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in fintech, trading and Software Development
 
-- 🌱 I’m currently learning Algorithmic Problem Solving
+- 🌱 I’m currently learning Algorithmic Problem Solving, Spring Boot
 
 - 💬 Ask me about World Politics, Turkey and geopolitcs.
 
