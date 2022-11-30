@@ -4,9 +4,7 @@
 
 - 🔭 I’m interested in fintech, trading and Software Development
 
-- 🌱 I’m currently learning Algorithmic Problem Solving, Spring Boot
-
-- 💬 Ask me about World Politics, Turkey and geopolitcs.
+- 🌱 I’m currently learning parallel computing 
 
 - 📫 How to reach me: email: kk4291@nyu.edu Linkedin:https://www.linkedin.com/in/kkaan-karakas/ Twitter:https://twitter.com/KocKaanKarakas
 
