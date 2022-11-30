@@ -4,11 +4,11 @@
 
 - 🔭 I’m interested in fintech, trading and Software Development
 
-- 🌱 I’m currently learning parallel computing 
+- 🌱 I’m currently learning Parallel Computing 
 
 - 📫 How to reach me: email: kk4291@nyu.edu Linkedin:https://www.linkedin.com/in/kkaan-karakas/ Twitter:https://twitter.com/KocKaanKarakas
 
-- ⚡ Fun fact: Im half Japanese half Turkish and I can speak English, Turkish and Japanese. 
+- ⚡ Fun fact: I can speak English, Turkish, Japanese and a bit of Russian. 
 
 [![KocKaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KocKaan)](https://github.com/anuraghazra/github-readme-stats)
 
