@@ -4,8 +4,8 @@
 
 - 🔭 I’m interested in fintech, trading and Software Development
 
-- 🌱 I’m currently learning Parallel Computing 
-
+- 🌱 I’m currently learning Low Latency C++ programming and network card optimization
+  
 - 📫 How to reach me: email: kk4291@nyu.edu Linkedin:https://www.linkedin.com/in/kkaan-karakas/ Twitter:https://twitter.com/KocKaanKarakas
 
 - ⚡ Fun fact: I can speak English, Turkish, Japanese and a bit of Russian. 
